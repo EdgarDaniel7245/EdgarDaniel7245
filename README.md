@@ -51,5 +51,3 @@ Cada proyecto publicado incluirá propósito, arquitectura o enfoque, tecnologí
 Para oportunidades de colaboración o conversación profesional, puedes encontrarme a través de los enlaces de contacto que agregaré a este perfil.
 
 ---
-
-*Perfil en construcción continua: prefiero publicar evidencia técnica bien documentada antes que cantidad de repositorios.*
