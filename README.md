@@ -1,9 +1,4 @@
-<!--
-Este es el README del perfil de GitHub de EdgarDaniel7245.
-Para que GitHub lo muestre en tu perfil, crea un repositorio público con el
-mismo nombre de usuario: EdgarDaniel7245, y guarda este archivo como README.md.
-Revisa el texto antes de publicarlo y sustituye los enlaces marcados como opcionales.
--->
+
 
 # Edgar Daniel Zúñiga Lugo
 
@@ -55,4 +50,3 @@ Para oportunidades de colaboración o conversación profesional, puedes encontra
 
 ---
 
-*Perfil en construcción continua: prefiero publicar evidencia técnica bien documentada antes que cantidad de repositorios.*
