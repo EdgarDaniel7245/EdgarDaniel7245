@@ -1,4 +1,4 @@
-# Edgar Daniel Zúñiga Lugo
+# Edgar Daniel Zuñiga Lugo
 
 ### Tecnologías de la Información | Infraestructura de Redes | Soporte y Seguridad
 
