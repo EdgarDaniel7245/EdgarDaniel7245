@@ -48,6 +48,6 @@ Cada proyecto publicado incluirá propósito, arquitectura o enfoque, tecnologí
 
 ## Contacto
 
-Para oportunidades de colaboración o conversación profesional, puedes encontrarme a través de los enlaces de contacto que agregaré a este perfil.
+Email: danylugo7244@gmail.com        TEL: (+52) 5560752663
 
 ---
