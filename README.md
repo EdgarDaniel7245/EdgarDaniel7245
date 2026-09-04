@@ -1,24 +1,26 @@
-
-
 # Edgar Daniel Zúñiga Lugo
 
 ### Tecnologías de la Información | Infraestructura de Redes | Soporte y Seguridad
 
 Soy estudiante de **Ingeniería en Tecnologías de la Información e Innovación Digital**, con formación técnica en informática y enfoque en infraestructura de redes digitales. Me interesa diseñar, documentar y mejorar soluciones tecnológicas seguras, escalables y útiles para las personas y las organizaciones.
 
-Actualmente desarrollo proyectos orientados a redes, automatización, soporte técnico y buenas prácticas de seguridad informática.
+Mi experiencia teórica y práctica continúa en crecimiento. Combino una base técnica sólida con aproximadamente un año de práctica laboral desarrollando soluciones para la administración de servicios de redes y telecomunicaciones, así como instalaciones físicas.
 
-## En qué me especializo
+## Experiencia aplicada
 
-- Infraestructura de redes: enrutamiento, conmutación y conectividad.
-- Soporte técnico presencial y remoto, con enfoque en continuidad operativa.
-- Seguridad informática aplicada a entornos de TI.
-- Documentación técnica y resolución estructurada de incidentes.
-- Coordinación de proyectos y trabajo colaborativo.
+- Administración de redes y telecomunicaciones con tecnologías de **Cisco, Huawei, TP-Link, MikroTik y Ubiquiti**.
+- Implementación y gestión de servicios como **VPN, DynDNS, Windows Server, Linux Server y Microsoft 365**.
+- Instalaciones físicas, conectividad, soporte técnico presencial y remoto, con enfoque en continuidad operativa.
+- Mantenimiento preventivo y correctivo de hardware y software en entornos **Windows, Linux y macOS**.
+- Documentación técnica y administrativa basada en análisis exhaustivo, con disciplina en el registro de procesos e incidencias.
 
-## Tecnologías y herramientas
+## Desarrollo, datos y automatización
 
-`Redes` · `Enrutamiento y conmutación` · `Seguridad informática` · `Python` · `Java` · `Git` · `GitHub` · `Soporte TI`
+- Desarrollo de soluciones y scripting con **Python** y **Java**.
+- Desarrollo web con **HTML5, CSS y JavaScript**.
+- Uso y gestión de bases de datos **MySQL** y **SQLite**.
+- Uso y desarrollo de modelos de inteligencia artificial para proyectos internos.
+- Control de versiones y colaboración técnica con **Git** y **GitHub**.
 
 ## Portafolio
 
@@ -26,10 +28,10 @@ Este perfil reunirá proyectos con documentación clara, instrucciones de reprod
 
 | Área | Qué mostraré |
 | --- | --- |
-| Redes | Topologías, configuraciones de laboratorio y decisiones de diseño. |
-| Automatización | Scripts en Python para tareas repetibles de operación y soporte. |
-| Soporte TI | Guías técnicas, procedimientos y soluciones a incidentes. |
-| Seguridad | Laboratorios, controles básicos y aprendizaje documentado. |
+| Redes y telecomunicaciones | Topologías, configuraciones de laboratorio, servicios de red y decisiones de diseño. |
+| Automatización | Scripts en Python para tareas repetibles de operación, soporte y administración. |
+| Soporte TI | Guías técnicas, procedimientos, mantenimiento y soluciones a incidentes. |
+| Desarrollo y datos | Proyectos con Java, web, bases de datos e IA aplicada con alcance documentado. |
 
 ## Proyectos en construcción
 
@@ -50,3 +52,4 @@ Para oportunidades de colaboración o conversación profesional, puedes encontra
 
 ---
 
+*Perfil en construcción continua: prefiero publicar evidencia técnica bien documentada antes que cantidad de repositorios.*
